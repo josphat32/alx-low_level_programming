@@ -2,7 +2,7 @@
 
 /**
  * print_diagonal - Funtion
- * 
+ *
  * @n: variable
  */
 
